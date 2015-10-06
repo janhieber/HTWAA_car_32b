@@ -1,0 +1,3 @@
+config load E:\HTWAA_car_32b\projects\Test_Stateflow\HTWAA_32b.ioc
+project generate ui
+exit wait

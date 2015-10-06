@@ -1,0 +1,5 @@
+[ProjectFiles]
+HeaderPath=E:\HTWAA_car_32b\projects\Test_GPIO\Test_GPIO\Inc;
+SourceFiles=E:\HTWAA_car_32b\projects\Test_GPIO\Test_GPIO\Src/Test_GPIO.c;E:\HTWAA_car_32b\projects\Test_GPIO\Test_GPIO\Src/Test_GPIO_data.c;E:\HTWAA_car_32b\projects\Test_GPIO\Test_GPIO\Src/rtGetInf.c;E:\HTWAA_car_32b\projects\Test_GPIO\Test_GPIO\Src/rtGetNaN.c;E:\HTWAA_car_32b\projects\Test_GPIO\Test_GPIO\Src/rt_nonfinite.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM4;MemUnit_T:uint8_T;

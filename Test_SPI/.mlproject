@@ -1,0 +1,5 @@
+[ProjectFiles]
+HeaderPath=E:\HTWAA_car_32b\projects\Test_SPI\Test_SPI\Inc;
+SourceFiles=E:\HTWAA_car_32b\projects\Test_SPI\Test_SPI\Src/Test_SPI.c;E:\HTWAA_car_32b\projects\Test_SPI\Test_SPI\Src/Test_SPI_data.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM4;MemUnit_T:uint8_T;

@@ -1,0 +1,3 @@
+config load E:\HTWAA_car_32b\projects\Test_PWM\HTWAA_32b.ioc
+project generate ui
+exit wait

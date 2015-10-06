@@ -1,0 +1,5 @@
+[ProjectFiles]
+HeaderPath=E:\HTWAA_car_32b\projects\Test_PWM\Test_PWM\Inc;
+SourceFiles=E:\HTWAA_car_32b\projects\Test_PWM\Test_PWM\Src/Test_PWM.c;E:\HTWAA_car_32b\projects\Test_PWM\Test_PWM\Src/Test_PWM_TIM.c;E:\HTWAA_car_32b\projects\Test_PWM\Test_PWM\Src/Test_PWM_data.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM4;MemUnit_T:uint8_T;
